@@ -1,0 +1,33 @@
+button {
+    background-color: green;
+    color: white;
+}
+
+button:hover{
+    background-color: crimson;
+}
+
+.heading {
+    color: red;
+    font-size: 20px;
+}
+
+/* background image */
+
+/* body {
+    background-image: url("twitter.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+} */
+
+/* shorthand property */
+/* body {
+    background: #1d1d1d url("twitter.png") no-repeat right top;
+} */
+
+@media screen and (max-width: 800px){
+    
+}
+
+/*  */
